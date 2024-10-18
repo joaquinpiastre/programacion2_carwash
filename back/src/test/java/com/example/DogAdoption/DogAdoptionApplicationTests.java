@@ -1,10 +1,10 @@
-package com.example.WashAlertv;
+package com.example.DogAdoption;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WashAlertvApplicationTests {
+class DogAdoptionApplicationTests {
 
 	@Test
 	void contextLoads() {
